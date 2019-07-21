@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "JamSessionHost classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "JoseSL",
+	"commentStamp" : "JoseSanLeandro 7/21/2019 11:27",
+	"super" : "JamSessionAttendee",
+	"traitcomposition" : "JamSessionHost",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "JamSession"
+}

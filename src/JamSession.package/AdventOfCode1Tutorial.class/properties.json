@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JoseSanLeandro 7/22/2019 08:24",
+	"super" : "AbstractTutorial",
+	"category" : "JamSession",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AdventOfCode1Tutorial",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JoseSanLeandro 7/21/2019 12:32",
+	"super" : "BaselineOf",
+	"category" : "BaselineOfJamSession",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BaselineOfJamSession",
+	"type" : "normal"
+}

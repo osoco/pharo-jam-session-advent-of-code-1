@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JoseSanLeandro 7/21/2019 11:53",
+	"super" : "Exception",
+	"category" : "JamSession",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "NoOneIsAttending",
+	"type" : "normal"
+}

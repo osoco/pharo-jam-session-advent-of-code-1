@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JoseSanLeandro 7/21/2019 11:18",
+	"super" : "JamSessionAttendee",
+	"category" : "JamSession",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "Victoria",
+	"type" : "normal"
+}

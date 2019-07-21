@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "JoseSanLeandro 7/21/2019 11:30",
+	"super" : "TestCase",
+	"category" : "JamSession-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "AdventOfCode1MetaTest",
+	"type" : "normal"
+}
